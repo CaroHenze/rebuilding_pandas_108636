@@ -1,4 +1,10 @@
 # Grundlagen der Anwendungsentwicklung A4
 Submitted by 108636
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Dateien im Repository
+
+| Datei | Beschreibung |
+|-------|--------------|
+| `Pandas.ipynb` | Jupyter Notebook mit allen Analysen und Codebeispielen |
+| `dist`  | Ordner mit exportierter HTML-Version des Notebooks und einer Kopie des Headerbilds zur Ansicht im Browser |
+|`pandas_image.webp` | Headerbild des Notebooks (Panda der eine Python umarmt) |
